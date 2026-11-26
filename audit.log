@@ -1,0 +1,6 @@
+'MicroserviceUpdates.progressLt_wellFounded' does not depend on any axioms
+'MicroserviceUpdates.rewrite_induction_reaches_atomic' does not depend on any axioms
+'MicroserviceUpdates.rewrite_framework_update_consistent' does not depend on any axioms
+'MicroserviceUpdates.Examples.MultiplierAdapter.synthesis_result' does not depend on any axioms
+'MicroserviceUpdates.Examples.MultiplierAdapter.generatedTranslation_forwardCompatible' does not depend on any axioms
+'MicroserviceUpdates.Examples.MultiplierAdapter.certifiedAdapter' does not depend on any axioms

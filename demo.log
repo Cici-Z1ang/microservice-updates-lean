@@ -1,0 +1,4 @@
+candidate repetition count: (some 2)
+adapter(7): [7, 7]
+old batch from state 3: (some (17, 17))
+new direct from state 3: (17, 17)
